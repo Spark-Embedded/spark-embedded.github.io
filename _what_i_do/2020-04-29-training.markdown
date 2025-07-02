@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2020-04-29
+img: training_small.jpg
+alt: image-alt
+project-date: April 2020
+client: Start Bootstrap
+category: Training
+description: Spark Embedded provides training to transition existing developers to embedded development, embedded team workflows, and effective multidisciplinary team processes.
+---
