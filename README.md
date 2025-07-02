@@ -1,6 +1,6 @@
 # Spark Embedded Website
 
-## Contact me
+## Contact Us
 
 <team@sparkembedded.com>
 
