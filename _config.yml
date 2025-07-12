@@ -4,7 +4,6 @@ email: team@sparkembedded.com
 url: https://github.com/Spark-Embedded/
 description: "Spark Embedded, LLC"
 keywords: "embedded development, firmware, engineering"
-skills: "Firmware and Test Infrastructure Development and Consulting"
 meta_author: Steinfadt Bailey
 
 # Google webmaster tools
@@ -19,6 +18,12 @@ color:        # #31E042
   primary-rgb: "50,207,224" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+
+# Header settings
+header:
+  headline: "Expert Partners for Complex Embedded Systems"
+  skills: "Firmware and Test Infrastructure Development and Consulting"
+  button_text: "Explore Our Services"
 
 # Footer settings
 footer:
