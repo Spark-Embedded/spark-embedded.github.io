@@ -21,7 +21,8 @@ color:        # #31E042
 
 # Header settings
 header:
-  headline: "Expert Partners for Complex Embedded Systems"
+  headline_line1: "Expert Partners for"
+  headline_line2: "Complex Embedded Systems"
   skills: "Firmware and Test Infrastructure Development and Consulting"
   button_text: "Explore Our Services"
 
