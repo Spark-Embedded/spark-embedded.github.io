@@ -23,7 +23,8 @@ color:        # #31E042
 header:
   headline_line1: "Expert Partners for"
   headline_line2: "Complex Embedded Systems"
-  skills: "Firmware and Test Infrastructure Development and Consulting"
+  skills_line1: "Professional Consulting and Rapid Development:"
+  skills_line2: "Firmware • Modeling & Simulation • HIL Testing"
   button_text: "Explore Our Services"
 
 # Footer settings
