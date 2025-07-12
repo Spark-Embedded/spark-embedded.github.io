@@ -23,7 +23,11 @@ color:        # #31E042
 # Footer settings
 footer:
   copyright: Spark Embedded, LLC
-  location: Location
+  location:
+    title: "Our Home"
+    membership_text: "A Proud Member Of"
+    membership_url: "https://www.maplestudios.com/"
+    membership_logo: "/img/maple_studios_logo.png"
   social: Around the Web
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -35,7 +39,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: West Des Moines
+  - line: "1207 Maple Street"
+  - line: "West Des Moines, IA 50265"
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
