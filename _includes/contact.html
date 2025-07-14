@@ -11,16 +11,13 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <p>We're currently setting up our formal contact channels. In the meantime, the best way to connect with the Spark Embedded founders is on LinkedIn.</p>
                     <div class="row" style="margin-top: 25px;">
+                        {% for founder in site.founders %}
                         <div class="col-xs-6">
-                             <a href="https://www.linkedin.com/in/bailey-steinfadt/" class="btn btn-lg btn-success" target="_blank" rel="noopener noreferrer">
-                                Connect with<br>Bailey
+                             <a href="{{ founder.linkedin_url }}" class="btn btn-lg btn-success" target="_blank" rel="noopener noreferrer">
+                                Connect with<br>{{ founder.name | split: ' ' | first }}
                             </a>
                         </div>
-                        <div class="col-xs-6">
-                             <a href="https://www.linkedin.com/in/griffinwilliam/" class="btn btn-lg btn-success" target="_blank" rel="noopener noreferrer">
-                                Connect with<br>William
-                            </a>
-                        </div>
+                        {% endfor %}
                     </div>
                 </div>
             </div>
