@@ -29,15 +29,15 @@ header:
 
 # Add the new founders section
 founders:
-  - name: "William Griffin, Co-Founder"
-    icon: "fa-tachometer"
-    bio: "Prior to co-founding Spark Embedded, William spent nearly two decades contributing to and leading engineering teams developing and testing embedded controls for off-highway vehicles. From utilizing model-based system design (MBSD) to develop models of control software and physical systems, to architecting advanced Hardware-in-the-Loop (HIL) simulators, his experience spans a large swath of the product development lifecycle. He is passionate about building high-performing, collaborative engineering teams as well as developing programs to raise the engineering craftsmanship across organizations. William holds a Professional Science Master’s degree in Applied Physics from the University of Northern Iowa."
-    linkedin_url: "https://www.linkedin.com/in/griffinwilliam/"
-
   - name: "Bailey Steinfadt, Co-Founder"
     icon: "fa-code"
     bio: "With nearly 15 years of industry experience, Bailey is a firmware engineer with a passion for helping companies launch and improve their embedded systems teams. Before co-founding Spark Embedded, she successfully ran her own consultancy, Stone Path Engineering, where she provided firmware and process consulting. An active leader in the local tech community, Bailey was recognized as a 'Women of Innovation' Rising Star Award Finalist and is passionate about community education, having served as an instructor and director for the Des Moines Maker Space (Area515). She holds a B.S. in Computer Engineering from Iowa State University."
     linkedin_url: "https://www.linkedin.com/in/bailey-steinfadt/"
+
+  - name: "William Griffin, Co-Founder"
+    icon: "fa-tachometer"
+    bio: "Prior to co-founding Spark Embedded, William spent nearly two decades contributing to and leading engineering teams developing and testing embedded controls for off-highway vehicles. From utilizing model-based system design (MBSD) to develop models of control software and physical systems, to architecting advanced Hardware-in-the-Loop (HIL) simulators, his experience spans a large swath of the product development lifecycle. He is passionate about building high-performing, collaborative engineering teams as well as developing programs to raise the engineering craftsmanship across organizations. William holds a Professional Science Master’s degree in Applied Physics from the University of Northern Iowa."
+    linkedin_url: "https://www.linkedin.com/in/griffinwilliam/"
 
 # Footer settings
 footer:
