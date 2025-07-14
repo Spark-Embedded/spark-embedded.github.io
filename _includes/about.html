@@ -3,14 +3,25 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>About</h2>
+                    <h2>Who We Are</h2>
                     <hr class="star-primary-white">
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12">
-                    <p>Spark Embedded, LLC is an embedded firmware consulting firm located in Iowa. With experience in industrial IoT, lighting controls, robotics, wearable tech, agricultural applications and more, Spark Embedded is ready to tackle your unique embedded systems challenges.</p>
+                {% for founder in site.founders %}
+                <div class="col-lg-6">                    
+                    <div class="text-center">
+                        <i class="fa {{ founder.icon }} fa-5x" style="margin-bottom: 20px;"></i>
+                        <h3>{{ founder.name }}</h3>
+                    </div>
+                    <p style="text-align: justify;">{{ founder.bio }}</p>
+                    <div class="text-center" style="margin-top: 20px; margin-bottom: 20px;">
+                        <a href="{{ founder.linkedin_url }}" class="btn btn-lg btn-outline" target="_blank" rel="noopener noreferrer">
+                            Connect with<br>{{ founder.name | split: ' ' | first }}
+                        </a>
+                    </div>
                 </div>
+                {% endfor %}
             </div>
         </div>
     </section>
