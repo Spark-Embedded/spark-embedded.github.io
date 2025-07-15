@@ -14,7 +14,7 @@
                         <i class="fa {{ founder.icon }} fa-5x" style="margin-bottom: 20px;"></i>
                         <h3>{{ founder.name }}</h3>
                     </div>
-                    <p style="text-align: justify;">{{ founder.bio }}</p>
+                    <p style="text-align: justify; color: #{{ site.color.secondary }};">{{ founder.bio }}</p>
                     <div class="text-center" style="margin-top: 20px; margin-bottom: 20px;">
                         <a href="{{ founder.linkedin_url }}" class="btn btn-lg btn-outline" target="_blank" rel="noopener noreferrer">
                             Connect with<br>{{ founder.name | split: ' ' | first }}
