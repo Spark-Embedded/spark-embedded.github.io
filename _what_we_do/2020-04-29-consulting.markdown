@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2020-04-29
 client: Start Bootstrap
 category: Consulting
-description: Spark Embedded provides consulting services for  architectural design and review, product road maps, code reviews and refactoring, hiring an embedded team, and vendor evaluation and selection. 
+description: "We offer expert consulting to guide your team, including high-level architectural design, product road-mapping, technical feasibility studies, and targeted training to improve your development processes."
 ---
