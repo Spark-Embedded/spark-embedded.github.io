@@ -1,4 +1,8 @@
 ---
+# This section is temporarily unpublished. It may be reinstated in the future
+# as "Source Code Contributions" once we have a public portfolio to share.
+published: false
+
 layout: default
 modal-id: 1
 date: 2020-04-29
