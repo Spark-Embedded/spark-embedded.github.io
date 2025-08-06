@@ -3,7 +3,7 @@ layout: default
 order: 4
 modal-id: 1
 date: 2020-04-29
-img: consulting_small.jpg
+img: consulting.jpeg
 alt: image-alt
 project-date: 2020-04-29
 client: Start Bootstrap
