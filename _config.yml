@@ -14,7 +14,7 @@ meta_author: Steinfadt Bailey
 
 # Color settings (hex-codes without the leading hash-tag)
 color:        # #31E042
-  primary: 32cfe0 #80B3FF
+  primary: 0caa55ff #80B3FF
   primary-rgb: "50,207,224" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
