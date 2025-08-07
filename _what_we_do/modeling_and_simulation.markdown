@@ -3,7 +3,7 @@ layout: default
 order: 2
 modal-id: 6
 date: 2025-07-15
-img: code_small.jpg
+img: modeling_and_simulation.jpeg
 alt: image-alt
 project-date: July 2025
 client: Start Bootstrap
