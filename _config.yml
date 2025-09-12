@@ -17,7 +17,6 @@ color:
   primary: 00aa4fff # logo green
   primary-rgb: "0,170,79" # logo green 
   secondary: 000222ff # dark blue
-  secondary-dark: 000222ff # dark blue
   # logo blue 74e2f7ff
 
 # Header settings
