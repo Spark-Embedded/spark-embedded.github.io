@@ -51,7 +51,7 @@ hr.star-primary {
 hr.star-light:after,
 hr.star-primary-white:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f069";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -426,7 +426,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.secondary }};
 }
 
 .btn-social {
@@ -527,7 +527,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.secondary }} !important;
 }
 
 /* Fix modal mouse wheel issues */
