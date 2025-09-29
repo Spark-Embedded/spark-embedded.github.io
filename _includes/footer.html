@@ -22,11 +22,23 @@
                     <div class="footer-col col-md-6">
                         <h3>{{ site.footer.social }}</h3>
                         <ul class="list-inline">
-                            {% for network in site.social %}
-                            <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
-                            </li>
-		                    {% endfor %}
+                            <p>
+                                {% for network in site.social %}
+                                <li>
+                                    <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                                </li>
+                                {% endfor %}
+                            </p>
+                            <p style="margin-top: 20px;">
+                                <li>
+                                <div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="b5ed7b9d-9645-40a4-9454-a17d3a8e50a9" data-share-badge-host="https://www.credly.com"></div>
+                                <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+                                </li>
+                                <li>
+                                    <div data-iframe-width="250" data-iframe-height="270" data-share-badge-id="96434bd6-8c49-4814-9fe2-3dcc87886250" data-share-badge-host="https://www.credly.com"></div>
+                                    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+                                </li>
+                            </p>
                         </ul>
                     </div>
                 </div>
